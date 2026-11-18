@@ -1,0 +1,4 @@
+Pasta: imagens/atracoes
+
+Adicione aqui os arquivos correspondentes ao projeto ATLAS.
+Use nomes simples, sem espaços e sem acentos. Atualize os caminhos no HTML quando inserir arquivos.

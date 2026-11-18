@@ -1,0 +1,6 @@
+ATLAS_MVP_2027 — implementação inicial
+
+Incluído: página inicial, Brasil, Estados Unidos, Israel, CSS compartilhado, modelo de país e estrutura de pastas.
+Tecnologias: HTML5 + CSS3.
+Não incluído: JavaScript, banco de dados, login, automações ou atualização automática.
+Atenção: conteúdo inicial educativo; dados mutáveis e exigências de viagem devem ser verificados em fontes oficiais antes de publicação.
